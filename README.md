@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chayasin-bdi (working account).
-- I'm currently working at Big Data Institute (Thailand)
+- 👨🏻‍💻 I'm currently working at Big Data Institute (Thailand) as a Senior Cloud Engineer
 - 👀 I’m interested in Data Warehousing and Machine Learning.
 
 <!---
